@@ -1,4 +1,4 @@
-# Berkel Tracker - Fault Tracking Service v2.1
+# Berkel Tracker - Fault Tracking Service 
 
 A comprehensive fault tracking and management system built with Flutter and Firebase, designed for managing technical issues across various locations including metro stations, government offices, airports, and other public facilities.
 
@@ -408,4 +408,12 @@ For issues, questions, or contributions, please contact the development team.
 
 ---
 
-**Berkel Tracker v2.1** - Comprehensive Fault Tracking and Management System
+**Berkel Tracker ** - Comprehensive Fault Tracking and Management System
+<img width="957" height="895" alt="Screenshot 2025-12-14 211457" src="https://github.com/user-attachments/assets/50d2608c-26c4-494f-9275-c0eb04a2d31a" />
+<img width="959" height="897" alt="Screenshot 2025-12-14 211447" src="https://github.com/user-attachments/assets/131fac77-afbc-4291-b632-665273f4562c" />
+<img width="948" height="899" alt="Screenshot 2025-12-14 211850" src="https://github.com/user-attachments/assets/14c3d7f8-2765-4bab-95d6-dcb71f2d75b2" />
+<img width="957" height="899" alt="Screenshot 2025-12-14 212113" src="https://github.com/user-attachments/assets/<img width="956" height="767" alt="Screenshot 2025-12-14 215226" src="https://github.com/user-attachments/assets/eb3401ed-0a58-43b6-b5a6-ec7bb2720112" />
+d7893949-486c-46e0-8840-ba<img width="959" height="859" alt="Screenshot 2025-12-14 212203" src="https://github.com/user-attachments/assets/e8324a76-8c82-4f2a-b0b4-7e93043585a1" />
+0257c4b395" />
+<img width="954" height="905" alt="Screenshot 2025-12-14 211424" src="https://github.com/user-attachments/assets/04d91b47-e061-4782-87e5-c20cc425a5f1" />
+
